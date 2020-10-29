@@ -5,12 +5,6 @@ Created on Sun Sep 27 16:20:33 2020
 @author: norhther
 """
 
-def swap(a, b):
-    temp = a
-    a = b
-    b = temp
-
-
 def sortList(l):
     domain = list(set(l))
     domain.sort()
