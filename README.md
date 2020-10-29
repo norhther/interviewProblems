@@ -1,2 +1,2 @@
-# interviewProblems
-Set of my solutions for Daily Interview Pro problems
+# Daily Interview Pro solutions
+My code for some fun Daily Interview Pro problems.
